@@ -9,7 +9,7 @@ import com.thunisoft.summer.component.ssoclient.auth.Auth;
 import com.thunisoft.summer.component.ssoclient.config.AbstractSSOconfig;
 import com.whir.component.config.ConfigXMLReader;
 
-public class SSOConfig extends AbstractSSOconfig {
+public class SSOConfig333 extends AbstractSSOconfig {
 
 	private String[] excludeUrlArr;
 
